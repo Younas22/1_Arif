@@ -1,0 +1,36 @@
+1)
+just_navebar
+202020
+f80000
+ 
+2)
+over all
+502bee
+black
+
+3)
+just_footer_bg
+202020
+f80000
+
+4)
+.subscribe-form input
+2E2E2E
+fff
+
+5)
+btn_warning_
+ffc107
+2E2E2E
+
+6)
+.ftco-navbar-light {
+000
+f80000
+
+7)
+.ftco-navbar-light .navbar-nav>.nav-item .dropdown-menu {
+000
+f80000
+
+
