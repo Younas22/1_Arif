@@ -74,7 +74,7 @@ class Admin_dashboard_M extends CI_Model {
 
         public function blog_count()
     {
-        return $this->db->select('*')->where('blog_cat_id','!=',0)->where('status',1)->get('blog')->num_rows();
+        return $this->db->select('*')->where('status',1)->get('blog')->num_rows();
     }
 
 
