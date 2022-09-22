@@ -3,7 +3,7 @@
         <div class=""><i class="fa fa-home text-info"></i>
             <a href="<?=base_url()?>" class="text-secondary text-decoration-none">Home</a><a href="<?=base_url('blog/category/').strtolower($this->uri->segment(3))?>" class="text-secondary text-decoration-none">/Category/<?=ucfirst($this->uri->segment(3))?></a>
         </div>
-        <h1 class="blog-title mt-2 font-weight-bold"><?=ucfirst($this->uri->segment(3))?></h1>
+        <h1 class="blog-title mt-2 font-weight-bold"><?=str_replace("-"," ",ucfirst($this->uri->segment(3)))?></h1>
     </div>
 </div>
 

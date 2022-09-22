@@ -407,7 +407,7 @@
                             </div>
                         <?php } ?>
 
-                        <div class="col-12 col-sm-12 col-md-12 col-lg-12 blog-main mt-5">
+                        <!-- <div class="col-12 col-sm-12 col-md-12 col-lg-12 blog-main mt-5">
                             <div class="card">
                                 <div class="card-body home-blog-h2">
                                     <h2 class="card-title"><a href="<?=base_url('blog/details/faq')?>" >FAQ</a></h2>
@@ -416,7 +416,9 @@
                                     <a href="<?=base_url('blog/details/faq')?>" class="btn_warning_ btn btn-warning btn-lg btn_grad_blgr w-25 text-truncate mt-auto border">Read More</a>
                                 </div>
                             </div>
-                            </div><!-- /.blog-main -->
+                            </div> -->
+
+                            <!-- /.blog-main -->
                         </div>
                     </div>
                     

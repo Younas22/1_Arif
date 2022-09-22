@@ -46,7 +46,7 @@
           <a href="<?= base_url() ?>">
           <img src="<?=base_url('assets/admin/img/blog/').web_details()->logo?>" class="img-fluid" alt="logo" width="200" height="200"></a>
         </div>
-      </div>
+      </div> 
     </div>
   </div>
 
@@ -64,7 +64,7 @@
             <li class="nav-item <?php if (empty($this->uri->segment(1))) { echo "active"; }else{ } ?>"><a href="<?=base_url()?>" class="nav-link">Home</a></li>
 
             <?php foreach (blog_category() as $key) { ?>
-              <li class="nav-item <?php if (ucfirst($this->uri->segment(3)) == $key->category_title) { echo "active"; }else{ } ?>"><a href="<?=base_url('blog/category/').strtolower($key->category_title)?>" class="nav-link"><?=$key->category_title?></a></li>
+              <li class="nav-item <?php if (ucfirst($this->uri->segment(3)) == $key->category_title) { echo "active"; }else{ } ?>"><a href="<?=base_url('blog/category/').str_replace(" ","-",strtolower($key->category_title))?>" class="nav-link"><?=$key->category_title?></a></li>
             <?php } ?>
 
             <li class="nav-item dropdown <?php if ($this->uri->segment(1) == 'about-us' || $this->uri->segment(1) == 'terms' || $this->uri->segment(1) == 'privacy' || $this->uri->segment(1) == 'contact') { echo "active"; }else{ } ?>">

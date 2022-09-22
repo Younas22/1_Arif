@@ -90,7 +90,8 @@ class Home extends MY_Controller {
 
 	public function category($category)
 	{
-	    $category_data = $this->db->where('category_title',$category)->get('blog_category')->row();
+		$category_name = str_replace("-"," ",$category);
+	    $category_data = $this->db->where('category_title',$category_name)->get('blog_category')->row();
 		$data['url'] = current_url();
 		$data['url_title'] = 'sign in';
 		$data['title'] = 'sign in your account';
