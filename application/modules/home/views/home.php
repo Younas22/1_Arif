@@ -8,7 +8,7 @@
 </div>
 <div class="container">
   <div class="row">
-    <div class="col-12 col-sm-12 col-md-8 col-lg-8 blog-main blog-main">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-8 blog-main blog-main">
       <div class="row">
         <!-- <div> -->
         
@@ -43,7 +43,7 @@
         <a href="#" class="btn btn-warning btn_warning_ btn-lg btn_grad_blgr w-25 text-truncate mt-auto border" id="loadMore">Load More</a>
       </div>
     </div>
-    <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-4">
       <div class="sidebar widget">
         <h3 style="font-family: 'Roboto', sans-serif;">Recent Post</h3><hr>
         <?php $this->load->view('recent_post'); ?>

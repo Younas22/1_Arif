@@ -53,7 +53,7 @@
         </div>
 
         
-    <div class="col-12 col-sm-12 col-md-4 col-lg-4">
+    <div class="col-12 col-sm-12 col-md-12 col-lg-4">
       <div class="sidebar widget">
         <h3 style="font-family: 'Roboto', sans-serif;">Recent Post</h3><hr>
         <?php $this->load->view('recent_post'); ?>
