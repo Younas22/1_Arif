@@ -3,31 +3,31 @@
 
             <div class="footer-content pt-5 pb-5">
                 <div class="row">
-                    <div class="col-xl-4 col-lg-4 mb-50">
+                    <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
                         <div class="footer-widget">
                             <div class="footer-widget-heading">
-                                <h3>Blog demo TOP ARTICLES</h3>
+                                <h3>UnitedLeos TOP ARTICLES</h3>
                             </div>
                             <ul>
                                 <?php $top_articles_no = 1; foreach (top_articles() as $key => $value) {  ?>
-                                    <li class="text-white"><?=$top_articles_no?>. <a href="<?=base_url('blog/details/').str_replace(" ","-",$value['title'])?>"><?=$value['title']?></a></li>
+                                    <li class="text-white"><?=$top_articles_no?>. <a href="<?=base_url('blog/details/').str_replace(" ","-",$value['title'])?>"><?=$value['title']?></a></li><br>
                                 <?php  $top_articles_no++;if($top_articles_no==6) break;} ?>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+                    <div class="col-xl-4 col-lg-4 col-md-12 mb-30">
                         <div class="footer-widget">
                             <div class="footer-widget-heading">
-                                <h3>Blog demo TOP RESOURCES</h3>
+                                <h3>UnitedLeos TOP RESOURCES</h3>
                             </div>
                             <ul>
                                 <?php $top_resources_no = 1; foreach (top_resources() as $key => $value) {  ?>
-                                    <li class="text-white"><?=$top_resources_no?>. <a href="<?=base_url('blog/details/').str_replace(" ","-",$value['title'])?>"><?=$value['title']?></a></li>
+                                    <li class="text-white"><?=$top_resources_no?>. <a href="<?=base_url('blog/details/').str_replace(" ","-",$value['title'])?>"><?=$value['title']?></a></li><br>
                                 <?php  $top_resources_no++;if($top_resources_no==6) break;} ?>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 mb-50">
+                    <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
                         <div class="footer-widget">
                             <div class="footer-widget-heading">
                                 <h3>Subscribe</h3>
@@ -51,7 +51,7 @@
                 <div class="row">
                     <div class="col-xl-6 col-lg-6 text-center text-lg-left">
                         <div class="copyright-text">
-                            <p>Copyright &copy; <?=date('Y')?>, All Right Reserved <a href="https://tecyoun.com/" target="_blank" style="color: white;">Tecyoun</a></p>
+                            <p>Copyright &copy; <?=date('Y')?>, All Right Reserved <a href="https://tecyoun.com/" target="_blank">Tecyoun</a></p>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 d-none d-lg-block text-right">
