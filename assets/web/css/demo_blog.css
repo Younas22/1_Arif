@@ -1,5 +1,9 @@
 .btn_warning_{
-  background-color: red !important;
+  background-color: #303F7B !important;
+}
+
+.btn_warning_:hover{
+  color: yellow !important;
 }
 .card-img {
   border-bottom-left-radius: 0px;
@@ -11,7 +15,7 @@
 .cat {
   display: inline-block;
   margin-bottom: 1rem;
-}
+} 
 .fa-users {
   margin-left: 1rem;
 }
@@ -40,7 +44,7 @@ ul {
   border-bottom: 1px solid #373636;
 }
 .single-cta i {
-  color: black;
+  color: yellow;
   font-size: 30px;
   float: left;
   margin-top: 8px;
@@ -126,7 +130,7 @@ ul {
   bottom: -15px;
   height: 2px;
   width: 50px;
-  background: black;
+  background: yellow;
 }
 .footer-widget ul li {
   display: inline-block;
@@ -135,7 +139,7 @@ ul {
   margin-bottom: 12px;
 }
 .footer-widget ul li a:hover {
-  color: black;
+  color: yellow;
 }
 .footer-widget ul li a {
   color: #fff;
@@ -155,9 +159,9 @@ ul {
 .subscribe-form button {
   position: absolute;
   right: 0;
-  background: black;
+  background: yellow;
   padding: 13px 20px;
-  border: 1px solid black;
+  border: 1px solid yellow;
   top: 0;
 }
 .subscribe-form button i {
@@ -175,14 +179,14 @@ ul {
   color: #878787;
 }
 .copyright-text p a {
-  color: black;
+  color: yellow;
 }
 .footer-menu li {
   display: inline-block;
   margin-left: 20px;
 }
 .footer-menu li:hover a {
-  color: black;
+  color: yellow;
 }
 .footer-menu li a {
   font-size: 14px;
@@ -199,7 +203,7 @@ h3 {
   margin: 10px 0px 15px;
   padding-bottom: 10px;
   padding-left: 10px;
-  border-left: 5px solid black;
+  border-left: 5px solid yellow;
 }
 .sidebar.widget {
   /*background: #f2f2f2;*/
@@ -263,7 +267,7 @@ h3 {
   font-weight: bold
 }
 .home-blog-h2 h2 span {
-  color: black;
+  color: yellow;
   font-weight: bold
 }
 @media only screen and (max-width: 1000px) {
@@ -356,7 +360,7 @@ a:hover, a:focus {
   outline: none !important;
   -webkit-box-shadow: none;
   box-shadow: none;
-  color: black;
+  color: yellow;
 }
 h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
@@ -365,7 +369,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   color: #000;
 }
 .bg-primary {
-  background: black !important;
+  background: yellow !important;
 }
 .ftco-section {
   padding: 7em 0;
@@ -387,11 +391,11 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 /*just_footer_bg*/
 .footer_bg{
-  background-color: #f80000;
+  background-color: #303F7B;
 }
 /*just_navebar*/
 .ftco-navbar-light {
-  background: #f80000 !important;
+  background: #303F7B !important;
   z-index: 3;
   padding: 0;
 }
@@ -399,7 +403,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 
 @media (max-width: 991.98px) {
   .ftco-navbar-light {
-    background: #f80000 !important
+    background: #303F7B !important
     position: relative;
     top: 0;
     padding: 10px 15px;
@@ -431,7 +435,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   display: block;
   width: 0;
   height: 2px;
-  background: black;
+  background: yellow;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -444,7 +448,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   }
 }
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: black;
+  color: yellow;
 }
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link:hover:before {
   width: 100%;
@@ -479,13 +483,13 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   color: #000;
 }
 .ftco-navbar-light .navbar-nav>.nav-item .dropdown-menu .dropdown-item:hover, .ftco-navbar-light .navbar-nav>.nav-item .dropdown-menu .dropdown-item:focus {
-  background: black;
+  background: yellow;
   color: #fff;
 }
 @media (max-width: 991.98px) {
   .ftco-navbar-light .navbar-nav>.nav-item .dropdown-menu {
     display: block !important;
-    background: #f80000;
+    background: #303F7B;
   }
   .ftco-navbar-light .navbar-nav>.nav-item .dropdown-menu .dropdown-item {
     color: rgba(255, 255, 255, 0.8);
@@ -493,7 +497,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 .ftco-navbar-light .navbar-nav>.nav-item.cta>a {
   color: #fff;
-  background: black;
+  background: yellow;
   border-radius: 0px;
 }
 @media (max-width: 767.98px) {
@@ -505,12 +509,12 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 @media (max-width: 991.98px) {
   .ftco-navbar-light .navbar-nav>.nav-item.cta>a {
     color: #fff;
-    background: black;
+    background: yellow;
     border-radius: 4px;
   }
 }
 .ftco-navbar-light .navbar-nav>.nav-item.active>a {
-  color: black;
+  color: yellow;
 }
 @media (max-width: 991.98px) {
   .ftco-navbar-light .navbar-nav>.nav-item.active>a {
@@ -571,7 +575,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   overflow: hidden;
   /*position: relative;*/
   object-fit: cover;
-  background-color: black;
+  background-color: yellow;
 }
 .video__button {
   background: none;

@@ -29,7 +29,7 @@
   <link href="<?=base_url()?>assets/admin/css/responsive.css" rel="stylesheet" type="text/css" />
   <link href="<?=base_url()?>assets/admin/css/theme-color.css" rel="stylesheet" type="text/css" />
   <!-- favicon -->
-  <link rel="shortcut icon" href="<?=base_url()?>assets/admin/img/favicon.ico" />
+  <link rel="shortcut icon" href="<?=base_url()?>assets/admin/img/profile.png" />
 </head>
 <!-- END HEAD -->
 
