@@ -51,6 +51,7 @@ if (!function_exists('get_recent_blog')){
 if (!function_exists('recent_category_blog')){
       function recent_category_blog($category){
          $CI =& get_instance();
+        $category = str_replace("-"," ",$category);
         $category_data_arr = array();
         $category_data = $CI->db->where('category_title',$category)->get('blog_category')->row();
         $category_blog = $CI->db->select('blog.*,blog_category.category_title, blog_category.id as category_id')->where('blog.blog_cat_id',$category_data->id)->order_by('created_at','desc')->limit(3)->from('blog')->join('blog_category', 'blog.  blog_cat_id = blog_category.id')->get()->result();

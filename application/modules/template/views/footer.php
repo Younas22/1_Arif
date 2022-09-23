@@ -6,7 +6,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
                         <div class="footer-widget">
                             <div class="footer-widget-heading">
-                                <h3>UnitedLeos TOP ARTICLES</h3>
+                                <h3 style="text-transform: uppercase;"><?=web_details()->site_name?> TOP ARTICLES</h3>
                             </div>
                             <ul>
                                 <?php $top_articles_no = 1; foreach (top_articles() as $key => $value) {  ?>
@@ -18,7 +18,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-12 mb-30">
                         <div class="footer-widget">
                             <div class="footer-widget-heading">
-                                <h3>UnitedLeos TOP RESOURCES</h3>
+                                <h3 style="text-transform: uppercase;"><?=web_details()->site_name?> TOP RESOURCES</h3>
                             </div>
                             <ul>
                                 <?php $top_resources_no = 1; foreach (top_resources() as $key => $value) {  ?>
@@ -30,7 +30,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-12 mb-50">
                         <div class="footer-widget">
                             <div class="footer-widget-heading">
-                                <h3>Subscribe</h3>
+                                <h3 style="text-transform: uppercase;">Subscribe</h3>
                             </div>
                             <div class="footer-text mb-25">
                                 <p>Don’t miss to subscribe to our new feeds, kindly fill the form below.</p>
@@ -59,7 +59,7 @@
                             <ul>
                                 <li><a href="<?=base_url()?>">Home</a></li>
                                 <li><a href="<?=base_url('about-us')?>">About Us</a></li>
-                                <li><a href="<?=base_url('terms')?>">Terms</a></li>
+                                <!-- <li><a href="<?=base_url('terms')?>">Terms</a></li> -->
                                 <li><a href="<?=base_url('privacy')?>">Privacy</a></li>
                                 <li><a href="<?=base_url('contact')?>">Contact</a></li>
                             </ul>

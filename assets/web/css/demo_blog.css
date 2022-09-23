@@ -3,7 +3,7 @@
 }
 
 .btn_warning_:hover{
-  color: yellow !important;
+  color: #ffb703 !important;
 }
 .card-img {
   border-bottom-left-radius: 0px;
@@ -44,7 +44,7 @@ ul {
   border-bottom: 1px solid #373636;
 }
 .single-cta i {
-  color: yellow;
+  color: #ffb703;
   font-size: 30px;
   float: left;
   margin-top: 8px;
@@ -130,7 +130,7 @@ ul {
   bottom: -15px;
   height: 2px;
   width: 50px;
-  background: yellow;
+  background: #ffb703;
 }
 .footer-widget ul li {
   display: inline-block;
@@ -139,7 +139,7 @@ ul {
   margin-bottom: 12px;
 }
 .footer-widget ul li a:hover {
-  color: yellow;
+  color: #ffb703;
 }
 .footer-widget ul li a {
   color: #fff;
@@ -159,9 +159,9 @@ ul {
 .subscribe-form button {
   position: absolute;
   right: 0;
-  background: yellow;
+  background: #ffb703;
   padding: 13px 20px;
-  border: 1px solid yellow;
+  border: 1px solid #ffb703;
   top: 0;
 }
 .subscribe-form button i {
@@ -179,14 +179,14 @@ ul {
   color: #878787;
 }
 .copyright-text p a {
-  color: yellow;
+  color: #ffb703;
 }
 .footer-menu li {
   display: inline-block;
   margin-left: 20px;
 }
 .footer-menu li:hover a {
-  color: yellow;
+  color: #ffb703;
 }
 .footer-menu li a {
   font-size: 14px;
@@ -203,7 +203,7 @@ h3 {
   margin: 10px 0px 15px;
   padding-bottom: 10px;
   padding-left: 10px;
-  border-left: 5px solid yellow;
+  border-left: 5px solid #ffb703;
 }
 .sidebar.widget {
   /*background: #f2f2f2;*/
@@ -267,7 +267,7 @@ h3 {
   font-weight: bold
 }
 .home-blog-h2 h2 span {
-  color: yellow;
+  color: #ffb703;
   font-weight: bold
 }
 @media only screen and (max-width: 1000px) {
@@ -360,7 +360,7 @@ a:hover, a:focus {
   outline: none !important;
   -webkit-box-shadow: none;
   box-shadow: none;
-  color: yellow;
+  color: #ffb703;
 }
 h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
@@ -369,7 +369,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   color: #000;
 }
 .bg-primary {
-  background: yellow !important;
+  background: #ffb703 !important;
 }
 .ftco-section {
   padding: 7em 0;
@@ -435,7 +435,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   display: block;
   width: 0;
   height: 2px;
-  background: yellow;
+  background: #ffb703;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -448,7 +448,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   }
 }
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: yellow;
+  color: #ffb703;
 }
 .ftco-navbar-light .navbar-nav>.nav-item>.nav-link:hover:before {
   width: 100%;
@@ -483,7 +483,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   color: #000;
 }
 .ftco-navbar-light .navbar-nav>.nav-item .dropdown-menu .dropdown-item:hover, .ftco-navbar-light .navbar-nav>.nav-item .dropdown-menu .dropdown-item:focus {
-  background: yellow;
+  background: #ffb703;
   color: #fff;
 }
 @media (max-width: 991.98px) {
@@ -497,7 +497,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 }
 .ftco-navbar-light .navbar-nav>.nav-item.cta>a {
   color: #fff;
-  background: yellow;
+  background: #ffb703;
   border-radius: 0px;
 }
 @media (max-width: 767.98px) {
@@ -509,12 +509,12 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 @media (max-width: 991.98px) {
   .ftco-navbar-light .navbar-nav>.nav-item.cta>a {
     color: #fff;
-    background: yellow;
+    background: #ffb703;
     border-radius: 4px;
   }
 }
 .ftco-navbar-light .navbar-nav>.nav-item.active>a {
-  color: yellow;
+  color: #ffb703;
 }
 @media (max-width: 991.98px) {
   .ftco-navbar-light .navbar-nav>.nav-item.active>a {
@@ -575,7 +575,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   overflow: hidden;
   /*position: relative;*/
   object-fit: cover;
-  background-color: yellow;
+  background-color: #ffb703;
 }
 .video__button {
   background: none;

@@ -67,7 +67,7 @@
               <li class="nav-item <?php if (ucfirst($this->uri->segment(3)) == $key->category_title) { echo "active"; }else{ } ?>"><a href="<?=base_url('blog/category/').str_replace(" ","-",strtolower($key->category_title))?>" class="nav-link"><?=$key->category_title?></a></li>
             <?php } ?>
 
-            <li class="nav-item dropdown <?php if ($this->uri->segment(1) == 'about-us' || $this->uri->segment(1) == 'terms' || $this->uri->segment(1) == 'privacy' || $this->uri->segment(1) == 'contact') { echo "active"; }else{ } ?>">
+            <!-- <li class="nav-item dropdown <?php if ($this->uri->segment(1) == 'about-us' || $this->uri->segment(1) == 'terms' || $this->uri->segment(1) == 'privacy' || $this->uri->segment(1) == 'contact') { echo "active"; }else{ } ?>">
               <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Page</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
                 <a class="dropdown-item" href="<?=base_url('about-us')?>">About Us</a>
@@ -75,7 +75,7 @@
                 <a class="dropdown-item" href="<?=base_url('privacy')?>">Privacy</a>
                 <a class="dropdown-item" href="<?=base_url('contact')?>">Contact</a>
               </div>
-            </li>
+            </li> -->
 
           </ul>
         </div>
