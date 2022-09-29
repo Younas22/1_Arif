@@ -1,8 +1,8 @@
 <?php
 
-/*	'username' => '1_arif',
-	'password' => '1_arif',
-	'database' => '1_arif',*/
+/*	'username' => 'unitedleos',
+	'password' => 'unitedleos',
+	'database' => 'unitedleos',*/
 
 
 defined('BASEPATH') OR exit('No direct script access allowed');
@@ -41,9 +41,9 @@ $db['default'] = array(
 // $db['default'] = array(
 // 	'dsn'	=> '',
 // 	'hostname' => 'localhost',
-// 	'username' => '1_arif',
-// 	'password' => '1_arif',
-// 	'database' => '1_arif',
+// 	'username' => 'u983941465_alphaexposofts',
+// 	'password' => 'U983941465_alphaexposofts',
+// 	'database' => 'u983941465_alphaexposofts',
 // 	'dbdriver' => 'mysqli',
 // 	'dbprefix' => '',
 // 	'pconnect' => FALSE,

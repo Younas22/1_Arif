@@ -8,6 +8,15 @@ class Admin_dashboard_M extends CI_Model {
     }
 
 
+    function getUserDetails(){
+        $response = array();
+        $this->db->select('email');
+        $q = $this->db->get('subscription');
+        $response = $q->result_array();
+        return $response;
+    }
+
+
     public function get_projects()
     {
         return $this->db->select('*')->get('projects')->result();

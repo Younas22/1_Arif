@@ -10,6 +10,8 @@ $route['sitemap\.xml'] = "admin/Sitemap/index";
 // admin routes
 $route['admin/dashboard'] = 'admin/Admin_dashboard';
 $route['admin/sub-admin'] = 'admin/Admin_dashboard/sub_admin';
+$route['export-email-list'] = 'admin/Admin_dashboard/export_csv';
+$route['email-delate/(:num)'] = 'admin/Admin_dashboard/email_delete/$1';
 
 //category
 $route['admin/category'] = 'admin/Admin_dashboard/category';

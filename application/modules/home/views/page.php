@@ -14,117 +14,113 @@
                     <div class="card">
                         <?php if ($this->uri->segment(1) == 'terms') { ?>
                             <div class="card-body">
-
-
-<h1>Terms and Conditions</h1>
-<p>Last updated: September 21, 2022</p>
-<p>Please read these terms and conditions carefully before using Our Service.</p>
-<h1>Interpretation and Definitions</h1>
-<h2>Interpretation</h2>
-<p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
-<h2>Definitions</h2>
-<p>For the purposes of these Terms and Conditions:</p>
+                                <div class="preview">
+<h2>Terms and Conditions</h2>
+<p>Welcome to unitedleos!</p>
+<p>These terms and conditions outline the rules and regulations for the use of unitedleos Website, located at www.unitedleos.com.</p>
+<p>By accessing this website we assume you accept these terms and conditions. Do not continue to use unitedleos if you do not agree to take all of the terms and conditions stated on this page.</p>
+<p>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.</p>
+<h3>Cookies</h3>
+<p>We employ the use of cookies. By accessing unitedleos, you agreed to use cookies in agreement with the unitedleos Privacy Policy. </p>
+<p>Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.</p>
+<h3>License</h3>
+<p>Unless otherwise stated, unitedleos and/or its licensors own the intellectual property rights for all material on unitedleos. All intellectual property rights are reserved. You may access this from unitedleos for your own personal use subjected to restrictions set in these terms and conditions.</p>
+<p>You must not:</p>
 <ul>
-<li>
-<p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
-</li>
-<li>
-<p><strong>Country</strong> refers to: New York,  United States</p>
-</li>
-<li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Football sea .</p>
-</li>
-<li>
-<p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
-</li>
-<li>
-<p><strong>Service</strong> refers to the Website.</p>
-</li>
-<li>
-<p><strong>Terms and Conditions</strong> (also referred as &quot;Terms&quot;) mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the <a href="https://www.freeprivacypolicy.com/free-terms-and-conditions-generator/" target="_blank">Free Terms and Conditions Generator</a>.</p>
-</li>
-<li>
-<p><strong>Third-party Social Media Service</strong> means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.</p>
-</li>
-<li>
-<p><strong>Website</strong> refers to Football sea , accessible from <a href="https://footballsea.com/" rel="external nofollow noopener" target="_blank">https://footballsea.com/</a></p>
-</li>
-<li>
-<p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
-</li>
+<li>Republish material from unitedleos</li>
+<li>Sell, rent or sub-license material from unitedleos</li>
+<li>Reproduce, duplicate or copy material from unitedleos</li>
+<li>Redistribute content from unitedleos</li>
 </ul>
-<h1>Acknowledgment</h1>
-<p>These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.</p>
-<p>Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.</p>
-<p>By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.</p>
-<p>You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.</p>
-<p>Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.</p>
-<h1>Links to Other Websites</h1>
-<p>Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.</p>
-<p>The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
-<p>We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.</p>
-<h1>Termination</h1>
-<p>We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.</p>
-<p>Upon termination, Your right to use the Service will cease immediately.</p>
-<h1>Limitation of Liability</h1>
-<p>Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.</p>
-<p>To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.</p>
-<p>Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.</p>
-<h1>&quot;AS IS&quot; and &quot;AS AVAILABLE&quot; Disclaimer</h1>
-<p>The Service is provided to You &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.</p>
-<p>Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.</p>
-<p>Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.</p>
-<h1>Governing Law</h1>
-<p>The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.</p>
-<h1>Disputes Resolution</h1>
-<p>If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.</p>
-<h1>For European Union (EU) Users</h1>
-<p>If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.</p>
-<h1>United States Legal Compliance</h1>
-<p>You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a &quot;terrorist supporting&quot; country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.</p>
-<h1>Severability and Waiver</h1>
-<h2>Severability</h2>
-<p>If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.</p>
-<h2>Waiver</h2>
-<p>Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.</p>
-<h1>Translation Interpretation</h1>
-<p>These Terms and Conditions may have been translated if We have made them available to You on our Service.
-You agree that the original English text shall prevail in the case of a dispute.</p>
-<h1>Changes to These Terms and Conditions</h1>
-<p>We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.</p>
-<p>By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.</p>
-<h1>Contact Us</h1>
-<p>If you have any questions about these Terms and Conditions, You can contact us:</p>
+<p>This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the <a href="https://www.privacypolicies.com/blog/sample-terms-conditions-template/">Terms And Conditions Template</a>.</p>
+<p>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. unitedleos does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of unitedleos,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, unitedleos shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</p>
+<p>unitedleos reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.</p>
+<p>You warrant and represent that:</p>
 <ul>
-<li>By email: info@footballsea.com</li>
+<li>You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;</li>
+<li>The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;</li>
+<li>The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy</li>
+<li>The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.</li>
 </ul>
-
-</div>
+<p>You hereby grant unitedleos a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.</p>
+<h3>Hyperlinking to our Content</h3>
+<p>The following organizations may link to our Website without prior written approval:</p>
+<ul>
+<li>Government agencies;</li>
+<li>Search engines;</li>
+<li>News organizations;</li>
+<li>Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and</li>
+<li>System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.</li>
+</ul>
+<p>These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party’s site.</p>
+<p>We may consider and approve other link requests from the following types of organizations:</p>
+<ul>
+<li>commonly-known consumer and/or business information sources;</li>
+<li>dot.com community sites;</li>
+<li>associations or other groups representing charities;</li>
+<li>online directory distributors;</li>
+<li>internet portals;</li>
+<li>accounting, law and consulting firms; and</li>
+<li>educational institutions and trade associations.</li>
+</ul>
+<p>We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of unitedleos; and (d) the link is in the context of general resource information.</p>
+<p>These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.</p>
+<p>If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to unitedleos. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.</p>
+<p>Approved organizations may hyperlink to our Website as follows:</p>
+<ul>
+<li>By use of our corporate name; or</li>
+<li>By use of the uniform resource locator being linked to; or</li>
+<li>By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.</li>
+</ul>
+<p>No use of unitedleos logo or other artwork will be allowed for linking absent a trademark license agreement.</p>
+<h3>iFrames</h3>
+<p>Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website.</p>
+<h3>Content Liability</h3>
+<p>We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.</p>
+<h3>Your Privacy</h3>
+<p>Please read Privacy Policy</p>
+<h3>Reservation of Rights</h3>
+<p>We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.</p>
+<h3>Removal of links from our website</h3>
+<p>If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly.</p>
+<p>We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.</p>
+<h3>Disclaimer</h3>
+<p>To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:</p>
+<ul>
+<li>limit or exclude our or your liability for death or personal injury;</li>
+<li>limit or exclude our or your liability for fraud or fraudulent misrepresentation;</li>
+<li>limit any of our or your liabilities in any way that is not permitted under applicable law; or</li>
+<li>exclude any of our or your liabilities that may not be excluded under applicable law.</li>
+</ul>
+<p>The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.</p>
+<p>As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.</p> </div>
+                            </div>
                         <?php } ?>
 
                         <?php if ($this->uri->segment(1) == 'privacy') { ?>
                             <div class="card-body">
-<h1>Privacy Policy</h1>
-<p>Last updated: September 21, 2022</p>
+<div class="tab-content translations-content-item en visible" id="en">
+<h2>Privacy Policy</h2>
+<p>Last updated: May 14, 2022</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
-<p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.privacypolicies.com/privacy-policy-generator/" target="_blank">Privacy Policy Generator</a>.</p>
-<h1>Interpretation and Definitions</h1>
-<h2>Interpretation</h2>
+<p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p>
+<h2>Interpretation and Definitions</h2>
+<h3>Interpretation</h3>
 <p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
-<h2>Definitions</h2>
+<h3>Definitions</h3>
 <p>For the purposes of this Privacy Policy:</p>
 <ul>
 <li>
 <p><strong>Account</strong> means a unique account created for You to access our Service or parts of our Service.</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Football sea.</p>
+<p><strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to unitedleos.</p>
 </li>
 <li>
 <p><strong>Cookies</strong> are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.</p>
 </li>
 <li>
-<p><strong>Country</strong> refers to: New York,  United States</p>
+<p><strong>Country</strong> refers to: Pakistan</p>
 </li>
 <li>
 <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
@@ -142,13 +138,13 @@ You agree that the original English text shall prevail in the case of a dispute.
 <p><strong>Usage Data</strong> refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).</p>
 </li>
 <li>
-<p><strong>Website</strong> refers to Football sea, accessible from <a href="https://footballsea.com" rel="external nofollow noopener" target="_blank">https://footballsea.com</a></p>
+<p><strong>Website</strong> refers to unitedleos, accessible from <a href="https://www.unitedleos.com" rel="external nofollow noopener" target="_blank">https://www.unitedleos.com</a></p>
 </li>
 <li>
 <p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
 </li>
 </ul>
-<h1>Collecting and Using Your Personal Data</h1>
+<h2>Collecting and Using Your Personal Data</h2>
 <h2>Types of Data Collected</h2>
 <h3>Personal Data</h3>
 <p>While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:</p>
@@ -169,9 +165,10 @@ You agree that the original English text shall prevail in the case of a dispute.
 <p>We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:</p>
 <ul>
 <li><strong>Cookies or Browser Cookies.</strong> A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.</li>
+<li><strong>Flash Cookies.</strong> Certain features of our Service may use local stored objects (or Flash Cookies) to collect and store information about Your preferences or Your activity on our Service. Flash Cookies are not managed by the same browser settings as those used for Browser Cookies. For more information on how You can delete Flash Cookies, please read "Where can I change the settings for disabling, or deleting local shared objects?" available at <a href="https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html#main_Where_can_I_change_the_settings_for_disabling__or_deleting_local_shared_objects_" rel="external nofollow noopener" target="_blank">https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html#main_Where_can_I_change_the_settings_for_disabling__or_deleting_local_shared_objects_</a></li>
 <li><strong>Web Beacons.</strong> Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).</li>
 </ul>
-<p>Cookies can be &quot;Persistent&quot; or &quot;Session&quot; Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser. Learn more about cookies on the <a href="https://www.privacypolicies.com/blog/privacy-policy-template/#Use_Of_Cookies_Log_Files_And_Tracking" target="_blank">Privacy Policies website</a> article.</p>
+<p>Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser. Learn more about cookies: <a href="https://www.freeprivacypolicy.com/blog/sample-privacy-policy-template/#Use_Of_Cookies_And_Tracking" target="_blank">Use of Cookies by Free Privacy Policy</a>.</p>
 <p>We use both Session and Persistent Cookies for the purposes set out below:</p>
 <ul>
 <li>
@@ -224,7 +221,7 @@ You agree that the original English text shall prevail in the case of a dispute.
 </ul>
 <p>We may share Your personal information in the following situations:</p>
 <ul>
-<li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.</li>
+<li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.</li>
 <li><strong>For business transfers:</strong> We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.</li>
 <li><strong>With Affiliates:</strong> We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.</li>
 <li><strong>With business partners:</strong> We may share Your information with Our business partners to offer You certain products, services or promotions.</li>
@@ -238,11 +235,6 @@ You agree that the original English text shall prevail in the case of a dispute.
 <p>Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.</p>
 <p>Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.</p>
 <p>The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.</p>
-<h2>Delete Your Personal Data</h2>
-<p>You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.</p>
-<p>Our Service may give You the ability to delete certain information about You from within the Service.</p>
-<p>You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.</p>
-<p>Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.</p>
 <h2>Disclosure of Your Personal Data</h2>
 <h3>Business Transactions</h3>
 <p>If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.</p>
@@ -259,46 +251,54 @@ You agree that the original English text shall prevail in the case of a dispute.
 </ul>
 <h2>Security of Your Personal Data</h2>
 <p>The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.</p>
-<h1>Detailed Information on the Processing of Your Personal Data</h1>
-<p>The Service Providers We use may have access to Your Personal Data. These third-party vendors collect, store, use, process and transfer information about Your activity on Our Service in accordance with their Privacy Policies.</p>
-<h2>Usage, Performance and Miscellaneous</h2>
-<p>We may use third-party Service Providers to provide better improvement of our Service.</p>
-<ul>
-<li>
-<p><strong>Mouseflow</strong></p>
-<p>Mouseflow is a session replay and heatmap tool that shows how visitors click, move, scroll, browse, and pay attention on websites. The service is operated by ApS.</p>
-<p>Mouseflow service may collect information from Your device.</p>
-<p>The information gathered by Mouseflow is held in accordance with its Privacy Policy: <a href="https://mouseflow.com/privacy/" rel="external nofollow noopener" target="_blank">https://mouseflow.com/privacy/</a></p>
-</li>
-</ul>
-<h1>Children's Privacy</h1>
+<h2>Children's Privacy</h2>
 <p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
 <p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.</p>
-<h1>Links to Other Websites</h1>
+<h2>Links to Other Websites</h2>
 <p>Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.</p>
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
-<h1>Changes to this Privacy Policy</h1>
+<h2>Changes to this Privacy Policy</h2>
 <p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
-<p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the &quot;Last updated&quot; date at the top of this Privacy Policy.</p>
+<p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.</p>
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
-<h1>Contact Us</h1>
+<h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: info@footballsea.com</li>
+<li>By email: info@unitedleos.com</li>
 </ul>
+</div>
                             </div>
                         <?php } ?>
 
                         <?php if ($this->uri->segment(1) == 'about-us') { ?>
                             <div class="card-body">
-<div><h1 style="text-align: center;"><span style="font-size: x-large;"><u>A</u><u>bout Us !</u></span></h1><h4 style="text-align: center;"><span style="font-weight: normal;"><span style="font-size: large;">Hello Friends Welcome To Football sea</span></span></h4><p style="text-align: center;"><br /><p style="font-size: 18px;">Football sea is a Professional sport Platform. Here we will provide you only interesting content, which you will like very much.<br /><p style="text-align: center;"><br /><p style="font-size: 18px;">We're dedicated to providing you the best of sport, with a focus on dependability and Football faq blog.<br /><p style="font-size: 18px;">We're working to turn our passion for sport into a booming online website. We hope you enjoy our sport as much as we enjoy offering them to you.</p><div style="text-align: center;"><br /></div><div style="text-align: center;"><h4>I will keep posting more important posts on my Website for all of you. Please give your support and love.</h4></div><div style="text-align: center;"><h4>Thanks For Visiting Our Site</h4></div><div style="text-align: center;"><a href="https://footballsea.com/contact" target="_blank"><span style="font-size: medium;"><h4>Contact Us !</h4></span></a></div></div> 
+<div>
+    <h2>About Us</h2>
+    <p style="text-align: left; color: black"><span style="font-weight: normal;"><span style="font-size: large;">Hello Friends Welcome To unitedleos</span></span></p>
+    <p style="text-align: center;">
+        <p style="font-size: 18px;">unitedleos is a Professional blogging Platform. Here we will provide you only interesting content, which you will like very much.
+            <p style="text-align: center;">
+                <p style="font-size: 18px;">We're dedicated to providing you the best of blogging, with a focus on dependability and daily update.
+                <br />
+                <br />
+                <p style="font-size: 18px;">We're working to turn our passion for blogging into a booming online website. We hope you enjoy our blogging as much as we enjoy offering them to you.</p>
+                <div style="text-align: center;">
+                    <br />
+                </div>
+                <div style="color: black">
+                <b>I will keep posting more important posts on my Website for all of you. Please give your support and love.</b></div>
+                <div style="color: black">
+                <b>Thanks For Visiting Our Site</b></div>
+                <br><br>
+                <div><a href="https://www.tecyoun.com/contact" target="_blank"><span style="font-size: medium;"><h4 style="color: gray">Contact Us !</h4></span></a></div>
+            </div>
                             </div>
                         <?php } ?>
 
                         <?php if ($this->uri->segment(1) == 'contact') { ?>
                             <div class="card-body">
 
-    <h2 style="text-align: center;">Welcome to <span id="W_Name"> Footballsea</span>!</h2>
+    <h2 style="text-align: center;">Welcome to <span id="W_Name"> unitedleos</span>!</h2>
     
     <p style="font-size: 17px;">Please email us if you have any queries about the site, advertising, or anything else.</p>
     
@@ -306,9 +306,9 @@ You agree that the original English text shall prevail in the case of a dispute.
       
       <img alt="contact-us" height="87" src="https://lh3.googleusercontent.com/-BA7qy8h_v1g/YLVCWDNZdCI/AAAAAAAAALw/rsHNJWX0BK4P5CuB0ymG8QkJ9A9E8KchgCLcBGAsYHQ/w320-h87/email-us-1805514__480.webp" width="320">
       
-      <p style="margin-left:25%"><i class="fas fa-envelope-open-text" style="color:#2C3E50; font-size:20px"></i> <b><i> <span id="W_Email"><a href="mailto:info@footballsea.com">info@footballsea.com</a></span></i></b><br>
+      <p style="margin-left:25%"><i class="fas fa-envelope-open-text" style="color:#2C3E50; font-size:20px"></i> <b><i> <span id="W_Email"><a href="mailto:info@unitedleos.com">info@unitedleos.com</a></span></i></b><br>
         
-        <i class="fab fa-whatsapp-square" style="color:#3EDC81; font-size:20px"></i> <b><span id="W_whatsapp"><a href="tel:++923018358709">++923018358709</a></span></b><br></p>    
+        <i class="fab fa-whatsapp-square" style="color:#3EDC81; font-size:20px"></i> <b><span id="W_whatsapp"><a href="tel:+923047222723">+923047222723</a></span></b><br></p>    
      
    <h4 style="text-align-center;">We will revert you as soon as possible...!</h4>
       <p style="text-align:center;">Thank you for contacting us! <br><b>Have a great day</b></p>

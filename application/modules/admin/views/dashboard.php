@@ -80,7 +80,7 @@
                       class="material-icons">link</i></span>
                   <div class="info-box-content">
                     <span class="info-box-text">Sitemap</span>
-                    <span class="info-box-number"><?=$blog_count+5+$category_count-1?></span><span></span>
+                    <span class="info-box-number"><?=$blog_count+$category_count+5-1?></span><span></span>
                     <!-- <div class="progress">
                       <div class="progress-bar width-60"></div>
                     </div>

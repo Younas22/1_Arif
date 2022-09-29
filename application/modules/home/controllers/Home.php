@@ -146,8 +146,8 @@ class Home extends MY_Controller {
 			$this->db->select();
 			$this->db->from('blog');
 	        $this->db->group_start();
-	        $this->db->like('blog.title_a', 'Can a blog have multiple topics?');
-	        $this->db->or_like('blog.title_b', $blog_title_);
+	        $this->db->like('blog.title_c', 'How much should I charge for a 500 word blog post?');
+	        $this->db->or_like('blog.title_d', 'Is blogging profitable in 2022?');
 	        $this->db->group_end();
 			$data['blog_details'] = $this->db->get()->row();
 
@@ -210,7 +210,18 @@ class Home extends MY_Controller {
 	/*update profile*/
 	public function subscription()
 	{
-		$email = $this->input->post('subscription');
+		$email = $this->input->post('email');
+		$this->form_validation->set_rules('email', 'Email','required|is_unique[subscription.email]');
+
+		if($this->form_validation->run()== FALSE){
+			unset($_SESSION['msg']);
+			$this->session->set_flashdata('error', 'Already exists!');
+			redirect('home');
+		}else{
+			unset($_SESSION['error']);
+			$this->session->set_flashdata('msg', 'Congratulations! you have successfully subscribed.');
+		}
+
         $subscription = $this->db->insert('subscription', array('email'=>$email));
         if ($subscription) {
         	redirect('home');

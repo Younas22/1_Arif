@@ -469,4 +469,33 @@ class Admin_dashboard extends MY_Controller {
 
 
 
+
+	public function export_csv(){
+		/* file name */
+		$filename = 'users_'.date('Ymd').'.csv'; 
+		header("Content-Description: File Transfer"); 
+		header("Content-Disposition: attachment; filename=$filename"); 
+		header("Content-Type: application/csv; ");
+	   /* get data */
+		$usersData = $this->admin_dash->getUserDetails();
+		/* file creation */
+		$file = fopen('php://output','w');
+		$header = array("Email"); 
+		fputcsv($file, $header);
+		// dd('ok');
+		foreach ($usersData as $key=>$line){ 
+			fputcsv($file,$line); 
+		}
+		fclose($file); 
+		exit; 
+	}
+
+	public function email_delete($id){
+		$del_subscription = $this->db->where('id',$id)->delete('subscription');
+		if ($del_subscription) {
+		$this->session->set_flashdata('message', 'Email deleted!');
+		}
+		redirect('admin/subscription');
+	}
+
 }

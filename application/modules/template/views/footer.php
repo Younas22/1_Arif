@@ -1,4 +1,4 @@
-<footer class="footer-section mt-5 footer_bg">
+<footer class="footer-section mt-5" style="background-color: #202020;">
         <div class="container">
 
             <div class="footer-content pt-5 pb-5">
@@ -35,11 +35,22 @@
                             <div class="footer-text mb-25">
                                 <p>Don’t miss to subscribe to our new feeds, kindly fill the form below.</p>
                             </div>
+
+                                <?php if ($this->session->flashdata('msg')) { ?>
+                                    <div class="alert alert-success p-2">
+                                      <?= $this->session->flashdata('msg'); ?>
+                                    </div>
+                                    <?php }else{ ?>
+                                    <div class="alert alert-danger p-2">
+                                      <?= $this->session->flashdata('error'); ?>
+                                    </div>
+                                <?php } ?>
+
                             <div class="subscribe-form">
-                                <form action="<?=base_url('home/subscription')?>" method="POST">
-                                    <input type="email" placeholder="Email Address" name="subscription" required>
-                                    <button type="submit"><i class="fa fa-telegram"></i></button>
-                                </form>
+                            <form action="<?=base_url('home/subscription')?>" method="POST">
+                                <input type="email" placeholder="Email Address" name="email" required>
+                                <button type="submit"><i class="fa fa-telegram"></i></button>
+                            </form>
                             </div>
                         </div>
                     </div>
@@ -59,7 +70,7 @@
                             <ul>
                                 <li><a href="<?=base_url()?>">Home</a></li>
                                 <li><a href="<?=base_url('about-us')?>">About Us</a></li>
-                                <!-- <li><a href="<?=base_url('terms')?>">Terms</a></li> -->
+                                <li><a href="<?=base_url('terms')?>">Terms</a></li>
                                 <li><a href="<?=base_url('privacy')?>">Privacy</a></li>
                                 <li><a href="<?=base_url('contact')?>">Contact</a></li>
                             </ul>
@@ -104,6 +115,9 @@ $(document).ready(function() {
     }
   });
 
+
+    $(".alert-success").hide(5000);
+    $(".alert-danger").hide(5000);
 
 });
 

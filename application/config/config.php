@@ -28,7 +28,7 @@ $root .= str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME'
 
 // $config['base_url']    = $root;
 $config['base_url']    = 'http://localhost/1_Arif/';
-// $config['base_url']    = 'https://www.footballsea.com/';
+// $config['base_url']    = 'https://footballsea.com/';
 
 /*
 |--------------------------------------------------------------------------
